@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\bin\Debug\Parking System.exe.config
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\bin\Debug\Parking System.exe
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\bin\Debug\Parking System.pdb
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking System.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking_System.Properties.Resources.resources
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking System.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking System.exe
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking System.pdb
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking_System.login.resources
+C:\Users\User\Desktop\THESIS_DATA\Park System in C#\Parking System\Parking System\obj\Debug\Parking_System.empdashboard.resources
